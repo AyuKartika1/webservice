@@ -1,6 +1,9 @@
 <?php
-echo "<h2> HELLO WORLD </h2>"
-echo "<h2> Nama : Ayu Kartika </h2>"
-echo "<h2> NIM  : 16.01.53.0080 </h2>"
-
-<?
+    echo " HelloWorld" ;
+    echo "</br>";
+    echo " Nama : Ayu Kartika ";
+    echo "</br>";
+    echo " Nim : 16.01.53.0080 " ;
+    echo "</br>";
+    echo " Progdi : Teknik Informatika " ;
+?>
